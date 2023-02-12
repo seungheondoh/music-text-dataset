@@ -31,13 +31,13 @@ This repository lists text sources that can be paired with music (for crawling).
 | [Music4All](https://sites.google.com/view/contact4music4all) | Tag, Lyrics |
 
 ### Review Description Dataset
-| Dataset | Source |
+| Dataset | text |
 | ------ | ------ |
-| [Music4All + Song Meaning](https://zenodo.org/record/6519264) | |
+| [Music4All + Song Meaning](https://zenodo.org/record/6519264) | Track Review |
 
 ### Playlist Description Dataset
 | Dataset | Text |
 | ------ | ------ |
-| [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) | |
-| [Deezer Playlist Dataset](https://zenodo.org/record/7419490) | |
-| [Spotify Million Playlist Dataset](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) | |
+| [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) | Playlist Title, Tag |
+| [Deezer Playlist Dataset](https://zenodo.org/record/7419490) | Playlist Title |
+| [Spotify Million Playlist Dataset](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) | Playlist Title |
