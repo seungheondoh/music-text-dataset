@@ -18,13 +18,12 @@
 
 ## Current Dataset
 
-### Track Description Dataset
+### Track-Description Dataset (Sentence)
 | Dataset | Text |
 | ------ | ------ |
 | [MusicCaps](https://huggingface.co/datasets/google/MusicCaps) | describing how the music sounds |
 
-### Multi-Label Tag Description Dataset
-
+### Track-Description Dataset (Tag)
 | Dataset | Text |
 | ------ | ------ |
 | [MSD-eCALS](https://github.com/seungheondoh/msd-subsets)| Genre,Mood,Style,Theme,Culture + Metadata |
