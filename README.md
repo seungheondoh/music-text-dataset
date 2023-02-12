@@ -14,7 +14,7 @@ This repository lists text sources that can be paired with music (for crawling).
 | [SoundCloud](https://soundcloud.com/moe-p0/newjeans-omg) | Noisy User Comment |
 | [Discog](https://www.discogs.com/ko/release/377554-The-Beatles-Let-It-Be) | Noisy User Comment |
 | [Juno](https://www.juno.co.uk/products/brightness-shallan-whispers-of-an-ancient-world/920749-01/) | Album Review |
-
+| [Jamendo](https://www.jamendo.com/track/1995659/fade-away-radio-edit) | Track Metadata |
 
 ## Current Dataset
 
