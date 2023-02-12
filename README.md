@@ -1,5 +1,5 @@
 # music-text-dataset
-
+This repository lists text sources that can be paired with music (for crawling). Open to contribution.
 
 ## Possible Source
 
