@@ -1,9 +1,9 @@
 # music-text-dataset
 
 
-### Possible Source
+## Possible Source
 
-| Dataset | Source |
+| Dataset | Text |
 | ------ | ------ |
 | [Musicbrainz](https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234)| Track, Artist Wikipedia, Track Metadata |
 | [Yotube Music Playlist](https://www.youtube.com/watch?v=84YxwrxRc5s) | Title, Description, Tag, Noisy User Comment |
@@ -16,14 +16,16 @@
 | [Juno](https://www.juno.co.uk/products/brightness-shallan-whispers-of-an-ancient-world/920749-01/) | Album Review |
 
 
+## Current Dataset
+
 ### Track Description Dataset
-| Dataset | Source |
+| Dataset | Text |
 | ------ | ------ |
 | [MusicCaps](https://huggingface.co/datasets/google/MusicCaps) | describing how the music sounds |
 
 ### Multi-Label Tag Description Dataset
 
-| Dataset | Source |
+| Dataset | Text |
 | ------ | ------ |
 | [MSD-eCALS](https://github.com/seungheondoh/msd-subsets)| Genre,Mood,Style,Theme,Culture + Metadata |
 | [Audioset Music](https://research.google.com/audioset/ontology/music_1.html) | Genere,Mood,Style,Instrument |
@@ -35,7 +37,7 @@
 | [Music4All + Song Meaning](https://zenodo.org/record/6519264) | |
 
 ### Playlist Description Dataset
-| Dataset | Source |
+| Dataset | Text |
 | ------ | ------ |
 | [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) | |
 | [Deezer Playlist Dataset](https://zenodo.org/record/7419490) | |
